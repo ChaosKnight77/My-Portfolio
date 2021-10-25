@@ -212,7 +212,7 @@ section .title::after {
 }
 .my-work .title::after, .teams .title::after {
     background: #111;
-    content: "what I have done";
+    content: "what I've done";
 }
 .my-work .my-work-content .card1 {
     width: calc(33% - 1.25rem);
